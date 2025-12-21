@@ -4,9 +4,9 @@
         {
             "id": "ch1",
             "type": "channel",
-            "title": "Tears of Steel (Live Mock)",
+            "title": "Zee Telugu",
             "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-            "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+            "streamUrl": "http://87.255.35.150:18222"
         },
         {
             "id": "mv1",
@@ -25,4 +25,5 @@
             "downloadable": false
         }
     ]
+
 }
