@@ -9,6 +9,13 @@
             "streamUrl": "http://87.255.35.150:18222"
         },
         {
+            "id": "ch2",
+            "type": "channel",
+            "title": "Star maa",
+            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+            "streamUrl": "http://87.255.35.150:18846"
+        },
+        {
             "id": "mv1",
             "type": "movie",
             "title": "Big Buck Bunny",
@@ -27,3 +34,4 @@
     ]
 
 }
+
