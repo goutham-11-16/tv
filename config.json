@@ -1,0 +1,28 @@
+{
+    "appName": "Tv Flex",
+    "items": [
+        {
+            "id": "ch1",
+            "type": "channel",
+            "title": "Tears of Steel (Live Mock)",
+            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+            "streamUrl": "https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8"
+        },
+        {
+            "id": "mv1",
+            "type": "movie",
+            "title": "Big Buck Bunny",
+            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/BigBuckBunny.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            "downloadable": true
+        },
+        {
+            "id": "mv2",
+            "type": "movie",
+            "title": "Elephants Dream",
+            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/ElephantsDream.jpg",
+            "videoUrl": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            "downloadable": false
+        }
+    ]
+}
