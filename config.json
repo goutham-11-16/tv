@@ -13,7 +13,7 @@
             "type": "channel",
             "title": "Star maa",
             "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-            "streamUrl": "http://87.255.35.150:18846"
+            "streamUrl": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
         },
         {
             "id": "mv1",
@@ -34,4 +34,5 @@
     ]
 
 }
+
 
