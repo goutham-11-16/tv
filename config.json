@@ -5,15 +5,64 @@
             "id": "ch1",
             "type": "channel",
             "title": "Zee Telugu",
-            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
+            "thumbnail": "https://i.imgur.com/YSc3G9d.png",
             "streamUrl": "http://87.255.35.150:18222"
         },
         {
             "id": "ch2",
             "type": "channel",
             "title": "Star maa",
-            "thumbnail": "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/images/TearsOfSteel.jpg",
-            "streamUrl": "https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8"
+            "thumbnail": "https://i.imgur.com/5c9PVS0.png",
+            "streamUrl": "http://87.255.35.150:18846"
+        },
+        {
+            "id": "ch3",
+            "type": "channel",
+            "title": "ETV Abhiruchi",
+            "thumbnail": "https://i.imgur.com/3D5SN3E.png",
+            "streamUrl": "https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8"
+        },
+        {
+            "id": "ch4",
+            "type": "channel",
+            "title": "ETV Telugu",
+            "thumbnail": "https://upload.wikimedia.org/wikipedia/en/0/07/ETV_old_logo.png",
+            "streamUrl": "https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8"
+        },
+        {
+            "id": "ch5",
+            "type": "channel",
+            "title": "Gemini Music",
+            "thumbnail": "https://i.imgur.com/ShIpLj3.png",
+            "streamUrl": "http://87.255.35.150:18857"
+        },
+        {
+            "id": "ch6",
+            "type": "channel",
+            "title": "Gemini TV",
+            "thumbnail": "https://i.imgur.com/yWaacuI.png",
+            "streamUrl": "https://livestream10.sunnxt.com/DolbyVision/GeminiTV_HDR/GeminiTV_HDR_Endpoints/GeminiTV-HDR10-IN-index.m3u8"
+        },
+        {
+            "id": "ch7",
+            "type": "channel",
+            "title": "Star Maa Movies",
+            "thumbnail": "https://i.imgur.com/1rRI95N.png",
+            "streamUrl": "http://87.255.35.150:18817"
+        },
+        {
+            "id": "ch8",
+            "type": "channel",
+            "title": "Star Sports 2 Telugu",
+            "thumbnail": "https://static.wikia.nocookie.net/logopedia/images/5/55/Star_Sports_2_Telugu.jpg",
+            "streamUrl": "http://87.255.35.150:18280"
+        },
+        {
+            "id": "ch9",
+            "type": "channel",
+            "title": "Zee Cinemalu",
+            "thumbnail": "https://i.imgur.com/uq8WSzG.png",
+            "streamUrl": "http://87.255.35.150:18578"
         },
         {
             "id": "mv1",
@@ -34,5 +83,6 @@
     ]
 
 }
+
 
 
